@@ -1,0 +1,49 @@
+@import url(tong.css);
+body{background: #fcfcfc}
+.banner{ width:100%;
+    height:699px;
+    margin:0 auto;
+    position: relative;
+    background: url("../image/23.png") no-repeat;
+    background-size:auto 100%;/*margin-bottom: 130px*/padding-top: 95px;
+    }
+.dao{width: 1035px;height: 16px;margin: 0 auto;}
+.zi1{color: white;font-size: 14px;float: left;padding-left: 120px}
+.zi2{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi3{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi4{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi5{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi6{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi7{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi8{font-size: 48px;color: white;float: left;padding-top: 200px;padding-left: 40%;position: relative;}
+.zi9{font-size: 32px;color: white;float: left;position: absolute;margin-left: -680px;margin-top: 270px}
+.zi10{font-size: 24px;color: white;position: absolute;margin-left: -540px;margin-top: 275px}
+.tupian{width: 1150px;height: 765px;margin: 0 auto;margin-top: 680px;background: url("../image/24.png");}
+.dianpin{width: 1146px;height: 1070px;border: 1px solid #ccc;margin: 0 auto;margin-top: 116px;margin-bottom: 80px}
+.gudian{width: 81px;height: 20px;margin: 0 auto;margin-top: 28px;font-size: 20px}
+.pinjia{padding-left: 40px;margin-top: 45px}
+.pinjia1{padding-left: 40px;margin-top: 38px}
+ .xia{
+     width:450px;
+     height:14px;
+     line-height:14px;
+     margin:0 auto;float: right;margin-top: 77px
+}
+ .xia1{
+    display: block;
+    float: left;
+    color: #333;
+    font-size:14px;
+    margin-right:10px;
+}
+ .xia2{
+    font-weight: bolder;
+}
+ .xia3{
+     margin-right:20px;
+}
+.pinlun{width: 70px;height: 20px;/*background: red;*/margin-top: 150px;font-size: 14px;margin-left: 65px}
+.ni{margin-top: 20px;margin-left: 65px;}
+.kuang1{width: 88px;height: 16px;border: 1px solid #000;margin-right: 15px}
+.kuang2{width: 384px;height: 67px;border: 1px solid #000;margin-top: 20px;margin-left: 65px;}
+.kuang3{width: 65px;height: 22px;border: 1px solid #000;margin-top: 20px;margin-left: 65px;}

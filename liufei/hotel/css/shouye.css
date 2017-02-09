@@ -1,0 +1,64 @@
+@import url(tong.css);
+.banner{ width:100%;
+    height:716px;
+    margin:0 auto;
+    position: relative;
+    background: url("../image/1.png") no-repeat;
+    background-size:auto 100%;margin-bottom: 130px
+    }
+.dao{width: 1035px;height: 14px;margin: 0 auto;padding-top: 95px;}
+.zi1{color: white;font-size: 14px;float: left;padding-left: 120px}
+.zi2{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi3{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi4{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi5{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi6{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi7{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi8{font-size: 48px;color: white;float: left;padding-top: 200px;padding-left: 40%;position: relative;}
+.zi9{font-size: 32px;color: white;float: left;position: absolute;margin-left: -680px;margin-top: 270px}
+.zi10{font-size: 24px;color: white;position: absolute;margin-left: -540px;margin-top: 275px}
+.yuding{width: 792px;height:156px;background: red;margin:550px auto;background: url("../image/2.png") no-repeat;padding-top: 60px;position: relative;}
+.zi11{font-size: 14px;color: white;padding-left: 70px;}
+.zi12{font-size: 14px;color: white;display: block;padding-left: 70px;}
+.fang1{width: 140px;height: 64px;background: white;position: absolute;bottom: 36px;left: 245px;text-align: center;line-height: 64px;font-size: 14px}
+.fang2{width: 140px;height: 64px;background: white;position: absolute;bottom: 36px;left: 424px;text-align: center;line-height: 64px;font-size: 14px}
+.fang3{width: 60px;height: 12px;position: absolute;left: 290px;top:30px;color: white}
+.fang4{width: 60px;height: 12px;position: absolute;left: 470px;top:30px;color: white}
+.fang5{width: 130px;height: 38px;position: absolute;right: 18px;top: 66px;/*background: red;*/font-size: 14px;color: white}
+.zi13{font-size: 14px;color: black;text-align: center;font-weight: 700}
+.zi14{font-size: 12px;color: black;text-align: center;}
+.yuan{width: 51px;height: 12px;margin: 0 auto;/*background: red;*/}
+.yuan1{width: 12px;height: 12px;border-radius: 50%;background: white;float: left; }
+.yuan2{width: 12px;height: 12px;border-radius: 50%;background: yellow;margin-left:6px;float: left;}
+.box1{width: 1170px;height: 239px;margin: 0 auto;margin-top: 38px;background: url("../image/3.png");}
+.zi15{width: 166px;height: 12px;margin: 0 auto;margin-top: 38px;color: yellow}
+.zi16{width: 78px;height: 18px;margin: 0 auto;margin-top: 20px;color: black;font-size: 18px;}
+.zi17{width: 538px;height: 138px;margin: 0 auto;margin-top: 30px;}
+.tupian{width: 1187px;height: 531px;margin: 0 auto;margin-top: 50px;background: url("../image/4.png");}
+.tupian2{width: 1187px;height:425px;margin: 0 auto;margin-top: 76px;background: url("../image/5.png"); }
+.jiao{width: 100%;height: 256px;margin-top: 88px;background: #bccdf0;/*float: left;*/}
+.box2{width: 500px;height: 152px;float: left;margin-top: 54px;margin-left: 200px;/*background: red*/}
+.zi18{font-size: 18px;padding-bottom: 27px}
+.zi19{font-size: 18px;color: white;padding-bottom: 14px;}
+.zi20{font-size: 12px;margin-left: 20px;color: black}
+.box3{width: 340px;height: 80px;/*background: red;*/float: left;margin-left: 180px;margin-top: 160px}
+.zi21{font-size: 12px;color: black}
+.box4{width: 752px;height: 359px;margin: 0 auto;margin-top: 18px;background: url("../image/6.png");}
+.box5{width: 1196px;height: 624px;margin: 0 auto;margin-top: 88px;background: url("../image/7.png");}
+.box6{width: 100%;height: 544px;background: white;}
+.box6-1{width: 554px;height: 544px;/*background: red;*/margin-left: 120px;float: left;}
+.box6-2{width:500px;height: 544px;/*background: green;*/float: left;}
+.box6-1-1{width: 180px;height: 135px;background: white;font-size: 32px;text-align: center;line-height: 135px}
+.box6-1-2{width: 492px;height: 409px;margin-left: 20px;/*background: blue;*/}
+.tu1{width: 492px;height: 179px;background: url("../image/8.png") no-repeat;}
+.zixun1{font-size: 18px;padding-top: 20px}
+.zixun2{font-size: 12px;padding-top: 12px}
+.box7{width: 238px;height: 20px;/*background: red;*/float: left;margin: 60px 20px}
+.xiaoyuan1{width: 20px;height: 20px;border-radius: 50%;background: #d4dee7;float: left;margin-left: 32px}
+.xiaoyuan2{width: 20px;height: 20px;border-radius: 50%;background: black;float: left;margin-left: 32px}
+.box6-2-1{width: 538px;height: 32px;border-bottom: 1px solid #b59c5f;float: left;/*background: red;*/margin-top: 134px}
+.kuang1{width: 90px;height: 32px;background: #937015;float: left;border-bottom: 1px solid #b59c5f;text-align: center;line-height: 32px;color: white;font-size: 16px}
+.kuang2{width: 90px;height: 32px;background: white;float: left;border-bottom: 1px solid #b59c5f;text-align: center;line-height: 32px;color:#937015 ;font-size: 16px}
+.genduo{float: right;line-height: 32px}
+.kuang3{width: 533px;height: 16px;/*background:red;*/margin-top: 180px;line-height: 32px}
+.kuang4{width: 533px;height: 16px;/*background:red;*/margin-top: 20px ;line-height: 32px}

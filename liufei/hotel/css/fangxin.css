@@ -1,0 +1,31 @@
+@import url(tong.css);
+body{background: #f8f9fa}
+.banner{ width:100%;
+    height:698px;
+    margin:0 auto;
+    position: relative;
+    background: url("../image/14.png") no-repeat;
+    background-size:auto 100%;/*margin-bottom: 130px*/padding-top: 95px;
+    }
+.dao{width: 1035px;height: 16px;margin: 0 auto;}
+.zi1{color: white;font-size: 14px;float: left;padding-left: 120px}
+.zi2{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi3{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi4{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi5{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi6{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi7{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi8{font-size: 48px;color: white;float: left;padding-top: 200px;padding-left: 40%;position: relative;}
+.zi9{font-size: 32px;color: white;float: left;position: absolute;margin-left: -680px;margin-top: 270px}
+.zi10{font-size: 24px;color: white;position: absolute;margin-left: -540px;margin-top: 275px}
+.jianjie{width: 82px;height: 20px;/*background: red;*/margin-top: 650px;margin-left: 45%;font-size: 20px;font-weight: 700}
+.biaoti{height: 16px;margin-top: 18px;margin-left: 16%}
+.kefang{width: 1158px;height: 473px;margin: 0 auto;margin-top: 54px;background: url("../image/15.png");}
+.jie{width: 1160px;height: 124px;margin: 0 auto;background: url("../image/16.png");}
+.ding1{width: 148px;height: 30px;background: #bab18c;border-radius: 5px;margin-left: 180px;float: left;text-align: center;line-height: 30px;color: white}
+.ding2{width: 148px;height: 30px;background: #cacaca;border-radius: 5px;margin-left: 260px;float: left;text-align: center;line-height: 30px;color: white}
+.ding3{width: 148px;height: 30px;background: #cacaca;border-radius: 5px;margin-left: 250px;float: left;text-align: center;line-height: 30px;color: white}
+.can{width: 100%;height: 712px;background: #efeeec;margin-top: 70px}
+.canzi{width: 1200px;height: 214px;margin: 0 auto;background: url("../image/17.png");}
+.cantu{width: 1200px;height: 290px;margin: 0 auto;background: url("../image/18.png");}
+.canding{width: 180px;height: 30px;background: #bab18c;margin: 0 auto;margin-top: 53px;border-radius: 5px;text-align: center;line-height: 30px;color: white}

@@ -1,0 +1,29 @@
+@import url(tong.css);
+body{background: white}
+.banner{ width:100%;
+    height:724px;
+    margin:0 auto;
+    position: relative;
+    background: url("../image/11.png") no-repeat;
+    background-size:auto 100%;/*margin-bottom: 130px*/padding-top: 95px;
+    }
+.dao{width: 1035px;height: 16px;margin: 0 auto;}
+.zi1{color: white;font-size: 14px;float: left;padding-left: 120px}
+.zi2{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi3{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi4{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi5{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi6{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi7{color: white;font-size: 14px;float: left;padding-left: 80px}
+.zi8{font-size: 48px;color: white;float: left;padding-top: 200px;padding-left: 40%;position: relative;}
+.zi9{font-size: 32px;color: white;float: left;position: absolute;margin-left: -680px;margin-top: 270px}
+.zi10{font-size: 24px;color: white;position: absolute;margin-left: -540px;margin-top: 275px}
+.jianjie{width: 82px;height: 20px;/*background: red;*/margin-top: 680px;margin-left: 45%;font-size: 20px;font-weight: 700}
+.biaoti{width: 164px;height: 16px;margin-top: 18px;margin-left: 42.5%}
+.tupian1{width: 1147px;height: 251px;margin: 0 auto;margin-top: 42px;background:  url("../image/12.png")}
+.box{width: 1120px;height:120px;margin: 0 auto;margin-top: 20px;/*background: red*/ }
+.box1{width: 327px;height: 120px;background: white;float: left;}
+.box2{width: 327px;height: 120px;/*background: black;*/float: left;margin-left: 63px}
+.box3{width: 327px;height: 120px;/*background: green;*/float: left;margin-left: 63px}
+.wenhua{width: 100%;height: 875px;margin-top: 70px;background: #f4f3ef}
+.wentu{width: 1148px;height: 875px;margin: 0 auto;background: url("../image/13.png");}
