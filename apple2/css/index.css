@@ -10,11 +10,11 @@ body{font-size: 12px;font-family: "微软雅黑"；}
  body{background: #f2f2f2}
 @font-face {
   font-family: 'iconfont';  /* project id 223366 */
-  src: url('http://at.alicdn.com/t/font_we2yzlocgnjt6gvi.eot');
-  src: url('http://at.alicdn.com/t/font_we2yzlocgnjt6gvi.eot?#iefix') format('embedded-opentype'),
-  url('http://at.alicdn.com/t/font_we2yzlocgnjt6gvi.woff') format('woff'),
-  url('http://at.alicdn.com/t/font_we2yzlocgnjt6gvi.ttf') format('truetype'),
-  url('http://at.alicdn.com/t/font_we2yzlocgnjt6gvi.svg#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/font_we2yzlocgnjt6gvi.eot');
+  src: url('//at.alicdn.com/t/font_we2yzlocgnjt6gvi.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_we2yzlocgnjt6gvi.woff') format('woff'),
+  url('//at.alicdn.com/t/font_we2yzlocgnjt6gvi.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_we2yzlocgnjt6gvi.svg#iconfont') format('svg');
 }
 .content{width: 100%;height: 200px;background: red;}
 .list1{width: 25%;height: 200px;background: blue;float: left;background-image: url(../image/l1.jpg);background-position: center;border: 2px solid #fff;border-left: none
